@@ -119,7 +119,7 @@ jobs:
 
 Skills: SQL / C / JAVA / HTML / CSS / C# / PHP / UNITY 
 
-- 🔭 I’m currently working on C,JAVA,HTML,CSS,SQL 
+- 🔭 I’m currently working on C,C#,JAVA,HTML,CSS,PHP,SQL,UNITY 
 - 📫 How to reach me: emirhan.sen9605@gmail.com 
 
 
