@@ -117,7 +117,7 @@ jobs:
 #### Bilgisayar Programcılığı Öğrencisi | Yenilikçi Yazılım Çözümleri
 İstanbul Gelişim Üniversitesi Bilgisayar Programcılığı bölümünde aktif olarak öğrenim görmekteyim.
 
-Skills: SQL / C / JAVA / HTML / CSS
+Skills: SQL / C / JAVA / HTML / CSS / C# / PHP / UNITY 
 
 - 🔭 I’m currently working on C,JAVA,HTML,CSS,SQL 
 - 📫 How to reach me: emirhan.sen9605@gmail.com 
